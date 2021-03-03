@@ -2,9 +2,9 @@
 
 #### Junior Software Developer who loves to build and develop programming projects :computer:   Striving for effective and clean code everyday :sweat_drops:   I am excited to meet anyone who is willing to collaborate and work together   :handshake: I wish you the best on your coding journey. 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mosesvk)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mosesvk)
 
 
 
