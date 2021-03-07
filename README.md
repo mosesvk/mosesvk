@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/-javascript-F1A324?logo=javascript&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-npm-C53635?logo=npm&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-vscode-3CACF2?logo=visual-studio-code&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-photoshop-2FA3F7?logo=adobe-photoshop&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-chrome-0F9855?logo=google-chrome&style=flat-square&logoColor=white">
 </p>
 
