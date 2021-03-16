@@ -1,5 +1,6 @@
 ## Hey 👋  I'm Moses
 
+### Husband & Father 
 #### Junior Software Developer who loves to build and develop programming projects :computer:   Striving for effective and clean code everyday :sweat_drops:   I am excited to meet anyone who is willing to collaborate and work together   :handshake: I wish you the best on your coding journey..
 
 <p>
