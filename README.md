@@ -3,6 +3,8 @@
 ### Husband & Father 
 #### Junior Software Developer who loves to build and develop programming projects :computer:   Striving for effective and clean code everyday :sweat_drops:   I am excited to meet anyone who is willing to collaborate and work together   :handshake: I wish you the best on your coding journey..
 
+#### Feel free to contact me anytime. 
+
 <p>
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
