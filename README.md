@@ -5,6 +5,12 @@
 
 #### Feel free to contact me
 
+<p>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' href="https://github.com/mosesvk">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' href="https://www.linkedin.com/in/mosesvk/">  
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' href="https://www.facebook.com/profile.php?id=100004199235959">
+</p>
+
 
 <p>
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
