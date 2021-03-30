@@ -5,11 +5,6 @@
 
 #### Feel free to contact me
 
-[![alt text][2.1]][2]
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[2]: http://www.facebook.com/
-
-
 
 <p>
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
