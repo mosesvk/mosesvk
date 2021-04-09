@@ -4,7 +4,7 @@
 ### Husband & Father 
 #### Junior Software Developer who loves to build and develop programming projects :computer:   Striving for effective and clean code everyday. I am excited to meet anyone who is willing to collaborate and work together   :handshake: I wish you the best on your coding journey..
 
-#### Feel free to contact me
+#### Feel free to contact me via LinkedIn or email 
 
 <p>
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' to="https://github.com/mosesvk">
